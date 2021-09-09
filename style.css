@@ -119,11 +119,7 @@ nav .fa {
   .row {
     flex-direction: column;
   }
-  .campus-col {
-    display: grid;
-    align-items: center;
-    justify-content: center;
-  }
+
   .testimonial-col img {
     margin-left: 0px;
     margin-right: 15px;
